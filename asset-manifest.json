@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mayank1234566789/gui.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Mayank1234566789/gui.git/static/js/main.76452a6e.chunk.js",
+    "main.js.map": "/Mayank1234566789/gui.git/static/js/main.76452a6e.chunk.js.map",
+    "runtime-main.js": "/Mayank1234566789/gui.git/static/js/runtime-main.99a5d072.js",
+    "runtime-main.js.map": "/Mayank1234566789/gui.git/static/js/runtime-main.99a5d072.js.map",
+    "static/js/2.e61697ab.chunk.js": "/Mayank1234566789/gui.git/static/js/2.e61697ab.chunk.js",
+    "static/js/2.e61697ab.chunk.js.map": "/Mayank1234566789/gui.git/static/js/2.e61697ab.chunk.js.map",
+    "static/js/3.0df3b8c3.chunk.js": "/Mayank1234566789/gui.git/static/js/3.0df3b8c3.chunk.js",
+    "static/js/3.0df3b8c3.chunk.js.map": "/Mayank1234566789/gui.git/static/js/3.0df3b8c3.chunk.js.map",
+    "index.html": "/Mayank1234566789/gui.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Mayank1234566789/gui.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e61697ab.chunk.js.LICENSE.txt": "/Mayank1234566789/gui.git/static/js/2.e61697ab.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Mayank1234566789/gui.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99a5d072.js",
+    "static/js/2.e61697ab.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.76452a6e.chunk.js"
+  ]
+}
