@@ -4,6 +4,8 @@ import Navbar from './components/Navbar';
 import Home from './pages/Home'
 import Products from './pages/Products'
 import Reports from './pages/Reports'
+import Table from './components/Table';
+import { DummyData } from './components/DummyData';
 
 function App() {
   return (
@@ -16,6 +18,13 @@ function App() {
       <Route path='/products' component={Reports}/>
     </Switch>
     </Router>
+    <Table data={DummyData.map(function name(name) {
+      return name;
+      
+    })}>
+     
+
+    </Table>
     </>
   );
 }
