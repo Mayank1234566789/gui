@@ -23,7 +23,7 @@ class Table extends Component {
      
                 {
                     paging:   true,
-                    searching: true,
+                    searching: false,
                     data: this.props.data,
                     columns: [
                         { title: "Name" },
